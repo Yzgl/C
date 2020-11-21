@@ -1,0 +1,14 @@
+{
+    "code-runner.executorMap": {
+
+       
+        "c": "chcp 65001 && cd $dir && gcc $fileName -o E:/Code/Data_Struct/out/$fileNameWithoutExt.exe && E:/Code/Data_Struct/out/$fileNameWithoutExt.exe",
+        "cpp": "chcp 65001 && cd $dir && g++ $fileName -o E:/Code/Data_Struct/out/$fileNameWithoutExt.exe && E:/Code/Data_Struct/out/$fileNameWithoutExt.exe",
+    },
+    "files.associations": {
+        "cmath": "c"
+    },
+
+    
+    
+}
